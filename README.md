@@ -1,0 +1,1 @@
+This repository contains scripts which we will run nightly. The purpose of these scripts is to test all nilmtk functions on real data sets. We have got a fairly good number of unit tests in nilmtk. However, real world data can highlight some edge case that our unit tests do not solve. Thus, this repository should also help in getting more and better unit test cases. 
